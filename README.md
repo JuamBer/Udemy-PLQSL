@@ -20,4 +20,4 @@ Material realizado en el curso de "PL/SQL de ORACLE en Español" de [Udemy](http
 
 ## Certificación 🎓
 
-![Certificación](https://github.com/JuamBer/Udemy-CursoPLSQL/blob/master/img-licencia/diploma-plsql.jpg)
+![Certificación](https://github.com/JuamBer/Udemy-PLQSL/blob/master/img-licencia/diploma-plsql.jpg)
