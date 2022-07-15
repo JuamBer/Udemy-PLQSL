@@ -1,0 +1,1 @@
+EXECUTE hola_mundo;
